@@ -58,5 +58,5 @@ Developed by: jude tarun RegisterNumber: 24003400
 ![ex6 waveform](https://github.com/user-attachments/assets/2db1ba57-5da5-46e9-99c6-180764b6af37)
 
 **RESULTS**
-Thus the given logic functions are implemented using and their operations are verified
+Thus the given sr filpflop are implemented using and their operations are verified
 using Verilog programming.
